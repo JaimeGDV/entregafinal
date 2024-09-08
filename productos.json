@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Jabon", 
+        "id": "001",
+        "type": "Piel", 
+        "price": 23, 
+        "stock": 32, 
+        "description": "Jabon miracle lorem impsum lorem impsum lorem impsum lorem impsum"
+    },
+    {
+        "name": "snail", 
+        "id": "002", 
+        "type": "Piel", 
+        "price": 210, 
+        "stock": 10, 
+        "description": "lorem impsum lorem impsum lorem impsum lorem impsum"
+    },
+    {
+        "name": "Gel cleanser", 
+        "id": "003", 
+        "type": "Piel", 
+        "price": 23, 
+        "stock": 15, 
+        "description": "lorem impsum lorem impsum lorem impsum lorem impsum"
+    },
+    {
+        "name": "Anuat", 
+        "id": "004", 
+        "type": "Cabello", 
+        "price": 24, 
+        "stock": 10, 
+        "description": "lorem impsum lorem impsum lorem impsum lorem impsum"
+    },
+    {
+        "name": "Eye serum", 
+        "id": "005", 
+        "type": "Cabello", 
+        "price": 23, 
+        "stock": 5, 
+        "description": "lorem impsum lorem impsum lorem impsum lorem impsum"
+    },
+    {
+        "name": "Camelia", 
+        "id": "006", 
+        "type": "Piel", 
+        "price": 15, 
+        "stock": 15, 
+        "description": "lorem impsum lorem impsum lorem impsum lorem impsum"
+    },
+    {
+        "name": "Making skin", 
+        "id": "007", 
+        "type": "Piel", 
+        "price": 11, 
+        "stock": 15, 
+        "description": "lorem impsum lorem impsum lorem impsum lorem impsum"
+    },
+    {
+        "name": "Ginseng", 
+        "id": "008", 
+        "type": "Piel", 
+        "price": 22, 
+        "stock": 15, 
+        "description": "lorem impsum lorem impsum lorem impsum lorem impsum"
+    },
+    {
+        "name": "product", 
+        "id": "009", 
+        "type": "Piel", 
+        "price": 10, 
+        "stock": 15, 
+        "description": "lorem impsum lorem impsum lorem impsum lorem impsum"
+    }
+]

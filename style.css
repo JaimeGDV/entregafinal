@@ -34,3 +34,81 @@
   .title2 {
     text-align: center;
 }
+
+.carritofinal {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centrar horizontalmente el contenido */
+    justify-content: center;
+    width: 40%;
+    margin: 0 auto; /* Centra el artículo en la página */
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra opcional */
+}
+article h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#listaCarrito {
+    width: 100%; /* Ocupa todo el ancho del contenedor */
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+/* Cada item del carrito */
+#listaCarrito li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+
+/* Estilo del total del carrito */
+#carritoTotal {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Estilo del formulario de compra */
+#formCompraFinal {
+    display: flex;
+    flex-direction: column;
+    width: 100%; /* Ajusta el formulario al ancho del contenedor */
+}
+
+/* Estilos para los campos del formulario */
+#formCompraFinal input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Estilo para el botón de finalizar compra */
+#botonCompraFinal {
+    background-color: #cc70e4;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+}
+
+/* Centrar el botón */
+#botonCompraFinal:hover {
+    background-color: #218838;
+}
